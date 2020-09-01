@@ -101,7 +101,7 @@ We've provided you with a console that you can use to test your code. To enter a
 - `VentureCapitalist#funding_rounds`
   - returns an array of all funding rounds for that venture capitalist
 - `VentureCapitalist#portfolio`
-  - Returns a **unique** list of all startups this venture capitalist has funded
+  - Returns a **unique** list of all startups this venture capitalist has funded -->
 - `VentureCapitalist#biggest_investment`
   - returns the largest funding round given by this venture capitalist
 - `VentureCapitalist#invested`
